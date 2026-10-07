@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Kartu Ulang Tahun Istriku Tercinta",
+  "description": "Kartu ucapan selamat ulang tahun interaktif 6 jendela untuk Istri Tercinta bertemakan dino kuning ceria, dominan pink dan aksen emas putih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
